@@ -72,6 +72,6 @@ The color of the image is almost precise and rarely does show hex codes that are
 
 ### Demo
 
-[![Demo for the screening task - Desktop App using Python-PyQt6](https://drive.google.com/file/d/1xt6xC9aCTFnogYfNuxHkRZ1IKIv8eLvl/view?usp=sharing)](https://www.youtube.com/watch?v=w9e5vOQ9Hd4)
+[![Demo for the screening task - Desktop App using Python-PyQt6](https://www.youtube.com/watch?v=w9e5vOQ9Hd4)
 
 
