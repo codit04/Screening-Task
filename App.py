@@ -16,7 +16,7 @@ from PyQt6.QtGui import QPixmap, QMouseEvent, QPainter, QPen, QColor, QIcon
 def randomimage():
     url = 'https://api.github.com/repos/hfg-gmuend/openmoji/contents/src/symbols/geometric?ref=master'
 
-    response = requests.get(url, headers=headers)
+    response = requests.get(url)
 
     if response.status_code == 200:
         files = response.json()
