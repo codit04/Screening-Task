@@ -72,7 +72,6 @@ The color of the image is almost precise and rarely does show hex codes that are
 
 ### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w9e5vOQ9Hd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[![Demo for the screening task - Desktop App using Python-PyQt6](https://drive.google.com/file/d/1xt6xC9aCTFnogYfNuxHkRZ1IKIv8eLvl/view?usp=sharing)](https://www.youtube.com/watch?v=w9e5vOQ9Hd4)
 
 
