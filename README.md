@@ -65,7 +65,7 @@ Random images that have been rendered can be selected and grouped together __On 
 When no image is available to group or no image has been selected to group , and button 2 is clicked , the app raises appropriate messages.
 
 ##### Additional Features
-- When hovered on a image shown on the canvas , the location, size and color of the image can be known.
+- When hovered on an image shown on the canvas , the location, size and color of the image can be known.
 The color of the image is almost precise and rarely does show hex codes that are slightly off of the shown color , since hex codes are generated in the program by calculating the average and making approximations (floor division)
 
 - The app also has been provided with an icon for better visual identification and identity.
